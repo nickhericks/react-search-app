@@ -10,7 +10,6 @@ function App() {
         <Container>
           <h1>Search App</h1>
           <p>This is a simple search app</p>
-
 					<SearchForm />
         </Container>
       </Jumbotron>
