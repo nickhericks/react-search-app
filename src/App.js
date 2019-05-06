@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container, Jumbotron } from "react-bootstrap";
 import SearchForm from './components/SearchForm';
+import Results from './components/Results';
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
 					<SearchForm />
         </Container>
       </Jumbotron>
+
+			<Results />
     </div>
   );
 }
