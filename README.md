@@ -4,10 +4,11 @@
 This project was a way for me to learn about create-react-app and React-Bootstrap.
 
 ***
-<!-- <img src="https://res.cloudinary.com/dtqevfsxh/image/upload/v1554485395/portfolio/expressDoubler.png" width="700px"> -->
 
 ## View project
 :mag: Live version available at [nickhericks.github.io/react-search-app/](https://nickhericks.github.io/react-search-app/)
+
+<img src="https://res.cloudinary.com/dtqevfsxh/image/upload/v1565075434/portfolio/searchapp.png" width="899px">
 
 <!-- ## Project objective -->
 <!-- To complete this project I created JavaScript classes (Game, Board, Space, Player, Token) to organize the code. Each class, with its constructor function, methods, getters and setters is in its own .js file, and the app.js file handles the interaction with DOM elements. -->
